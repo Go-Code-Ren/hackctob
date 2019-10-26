@@ -8,7 +8,7 @@ int main(){
       b+=a+2;
       c+=b;
       }
-   cout<<"this is wooooooow"<<a<<b<<c;
+   cout<<"sparta"<<a<<b<<c;
    return 0;
    }
    
